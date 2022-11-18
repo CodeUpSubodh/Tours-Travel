@@ -1,0 +1,21 @@
+*
+{
+    margin: 0;
+    padding-left: 16rem;
+    padding-top: 6rem;
+}
+.book
+{
+    background-color: antiquewhite;
+    width: 600px;
+    height: 450px;
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    place-items: center;
+    line-height: 1.5;
+    box-shadow: 0 20px 30px rgba(0, 0, 0, 0.185);
+    z-index: 2;
+    
+  
+}
